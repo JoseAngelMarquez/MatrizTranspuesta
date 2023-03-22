@@ -1,9 +1,9 @@
 /**************************************
  * Autor: Màrquez Espina Josè Àngel   *
  * Fecha Creación: 22/03/23           *
- * Fecha Actualización:	22/03/23	  *
+ * Fecha Actualización:	22/03/23      *
  * Descripción: Tanspuesta con        *
- * matrices cuadradas			      *
+ * matrices cuadradas		      *
  **************************************/
 
 package arreglos;
